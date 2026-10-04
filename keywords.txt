@@ -1,0 +1,37 @@
+# NovaHeap_Basics syntax colouring for the Arduino IDE
+
+NHTimer	KEYWORD1
+NHTimeout	KEYWORD1
+NHButton	KEYWORD1
+NHButtonWiring	KEYWORD1
+NHCommands	KEYWORD1
+
+ready	KEYWORD2
+restart	KEYWORD2
+setInterval	KEYWORD2
+interval	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+done	KEYWORD2
+isRunning	KEYWORD2
+remaining	KEYWORD2
+begin	KEYWORD2
+update	KEYWORD2
+pressed	KEYWORD2
+released	KEYWORD2
+clicked	KEYWORD2
+longPressed	KEYWORD2
+isDown	KEYWORD2
+downTime	KEYWORD2
+setDebounceTime	KEYWORD2
+setLongPressTime	KEYWORD2
+add	KEYWORD2
+printHelp	KEYWORD2
+argCount	KEYWORD2
+arg	KEYWORD2
+argIsNumber	KEYWORD2
+argInt	KEYWORD2
+argFloat	KEYWORD2
+
+NH_BUTTON_TO_GND	LITERAL1
+NH_BUTTON_TO_VCC	LITERAL1
